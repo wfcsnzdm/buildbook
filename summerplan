@@ -1,0 +1,123 @@
+暑假集训计划
+==========
+###封训时间###
+封训时间：2014-07-07 至 2014-08-03
+培训时间：上午：8：00 – 12：00			 下午：2：30 –6：00  晚上：7：00-9：00
+			 
+
+###每日必做###
+1.上午提前十分钟到办公室，整理好一天索要学的东西和资料  
+2.中午午休20-30分钟，剩余时间看书或学习  
+3.晚上技术分享，做好笔记  
+4.每天晚上做好今日总结  
+5.睡觉前预习明天所学内容  
+
+###学习时间安排表###
+主要方向：php
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>周一</td>
+    <td>周二</td>
+    <td>周三</td>    
+    <td>周四</td>
+    <td>周五</td>
+    <td>周六</td>
+    <td>周日</td>
+  </tr>
+  <tr>
+    <td>07-13</td>
+    <td>上午</td>
+    <td>封训开始会议</td>
+    <td>Css+html学习</td>
+    <td>Css+html学习</td>    
+    <td>Css3+html5入门（了解）</td>
+    <td>Css3+html5入门（响应式纵向时间轴）</td>
+    <td>Css3+html5入门（3D立体图片切换效果）</td>
+    <td>制作播放器按钮</td>
+  </tr>
+ <tr>
+    <td></td>
+    <td>下午</td>
+    <td>CSS+html学习（页面1）</td>
+    <td>Css+html学习</td>
+    <td>页面1修改</td>    
+    <td>Css3+html5入门（图标的简单悬停效果）</td>
+    <td>团队活动</td>
+    <td>Css3+html5入门（懒人之家）</td>
+    <td>同上</td>
+  </tr>
+ <tr>
+    <td>14-20</td>
+    <td>上午</td>
+    <td>PHP,知识的回顾（变量，数据类型，运算符）</td>
+    <td>Php数据库函数</td>
+    <td>PHP：日期、文件、文件上传</td>    
+    <td>运用所学制做“留言板”</td>
+    <td>PHP：cookie、session</td>
+    <td>Php+mysql学习（语句）</td>
+    <td>Php面向对象（编程介绍与面向过程区别）</td>
+  </tr>
+ <tr>
+    <td></td>
+    <td>下午</td>
+    <td>PHP,知识的回顾（表达式，控制语句）</td>
+    <td>Php数据库函数</td>
+    <td>PHP：日期、文件、文件上传</td>    
+    <td>运用所学制作“留言板”</td>
+    <td>团队活动</td>
+    <td>Php+mysql学习（函数）</td>
+    <td>Php面向对象（基本特性）</td>
+  </tr>
+  <tr>
+    <td>21-27</td>
+    <td>上午</td>
+    <td>集体活动</td>
+    <td>PHP面向对象（类）</td>
+    <td>PHP面向对象（方法）</td>    
+    <td>PHP面向对象（类的实例化）</td>
+    <td>php面向对象（类的继承与多态）</td>
+    <td>php面向对象（类的继承与多态）</td>
+    <td>制作简单的面向对象项目</td>
+  </tr>
+ <tr>
+    <td></td>
+    <td>下午</td>
+    <td>集体活动</td>
+    <td>PHP面向对象（属性）</td>
+    <td>PHP面向对象（构造函数）</td>    
+    <td>PHP面向对象（类的访问控制）</td>
+    <td>团队活动</td>
+    <td>制作简单的面向对象项目</td>
+    <td>制作简单的面向对象项目</td>
+  </tr>
+ <tr>
+    <td>27-03</td>
+    <td>上午</td>
+    <td>Jquery基本语法</td>
+    <td>封训课程设计发布及选题</td>
+    <td>编写结业课程设计</td>    
+    <td>编写结业课程设计</td>
+    <td>编写结业课程设计</td>
+    <td>编写结业课程设计</td>
+    <td>封训结束答辩</td>
+  </tr>
+ <tr>
+    <td></td>
+    <td>下午</td>
+    <td>Jquery基本语法</td>
+    <td>编写结业课程设计</td>
+    <td>编写结业课程设计</td>    
+    <td>编写结业课程设计</td>
+    <td>团队活动</td>
+    <td>撰写封训心得</td>
+    <td>封训结束会议</td>
+  </tr>
+</table>  
+*资料*  
+[懒人之家](http://www.lanrenzhijia.com/js/css3/)  
+[一个女前端工程师博客](http://www.yangqq.com/jstt/css3/)  
+Php：[http://www.php100.com/](http://www.php100.com/)  
+[http://bbs.phpchina.com/](http://bbs.phpchina.com/)  
+                                   
